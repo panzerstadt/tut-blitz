@@ -1,5 +1,7 @@
 # tut-blitz
 
+https://github.com/blitz-js/blitz/blob/canary/TUTORIAL.md
+
 ## Getting Started
 
 1. Add this code to db/schema.prisma:
